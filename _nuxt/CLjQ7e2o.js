@@ -1,0 +1,1 @@
+import{H as t,$ as e,G as s,bH as n}from"./Ds2KD3Vk.js";function i(){const o=t(!1);return e(()=>{window.requestAnimationFrame(()=>{o.value=!0})}),{ssrBootStyles:s(()=>o.value?void 0:{transition:"none !important"}),isBooted:n(o)}}export{i as u};
