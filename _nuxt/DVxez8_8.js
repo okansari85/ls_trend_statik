@@ -1,0 +1,1 @@
+import{_ as e}from"./wQY2CKzi.js";import{d as a,o as t,m as o,e as s,f as r}from"./BQemCU6N.js";import"./DJukiyje.js";const c=r("p",{class:"text-2xl mb-6"}," Malzemeler ",-1),i=a({__name:"cards",setup(m){return(n,_)=>(t(),o("div",null,[c,s(e)]))}});export{i as default};
