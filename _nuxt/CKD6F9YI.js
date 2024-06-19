@@ -1,0 +1,1 @@
+import{bo as u,bp as s,aV as n,bq as i}from"./DzPJtO7j.js";import{u as c}from"./CUtIIoeK.js";import"./BedlrsOr.js";const l=u(a=>{const t=s(),{isAuthenticated:o}=c();if(o.value===!0)return;const e=t.redirect.onAuthOnly;if(e===!1)throw n({statusCode:403});const r={path:e};return t.redirect.keepRequestedRoute&&(r.query={redirect:a.fullPath}),i(r,{replace:!0})});export{l as default};
